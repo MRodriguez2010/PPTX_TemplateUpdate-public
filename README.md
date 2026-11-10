@@ -114,3 +114,9 @@ result.warnings.extend(verify_readback(output, mappings))
 ## Current Status
 
 **Phase 6 complete** - all core features implemented including validation pipeline, grouped shape / table cell handling, status bar, and Revelio integration documentation.
+
+## Historical source examples
+
+The [Caliber Collision benchmark](public-data/caliber-benchmark.pptx) and [revised example](public-data/caliber-benchmark-revised.pptx) use the February 5, 2026 comparison. They share the `slot:project` and `slot:status` anchors and retain the [archived figures](public-data/caliber-ratings.csv) in an editable table. Use them as an additional old/new pair in the migration tool.
+
+![Historical benchmark with the archived company ratings](public-data/caliber-collision.png)
