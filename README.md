@@ -1,5 +1,7 @@
 # PPTX TemplateUpdate
 
+**Employee Sentiment Analysis project family:** [Project guide](https://github.com/MRodriguez2010/Revelio/blob/main/docs/employee-sentiment-analysis-projects.md) · [Revelio interactive demo](https://github.com/MRodriguez2010/Revelio)
+
 Try the two generated decks in `TestFiles/`. They contain matching `slot:project` and `slot:status` anchors in different layouts.
 
 A standalone local utility for validating and testing anchor-based PowerPoint template updates.
